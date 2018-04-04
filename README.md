@@ -3,6 +3,8 @@
 This module is designed for Human Navigation in virtual space.This module is
 composed of functions allowing to parse a unity scene (prefab file)
 and retrieve the graspable objects and the different pieces of furniture
+This parser has been validated only on Human navigation environments.
+Modification might be required for Interactive Cleanup and handyMan environments.
 Latest update: 04/04/18
 Authors: A. Magassouba
 
