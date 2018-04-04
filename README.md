@@ -9,7 +9,7 @@ Authors: A. Magassouba
 
 The environment and target object can be  edited directly from message.txt
 
-example:  "task_info":[{"environment":environment_file_name,"target":object_id,"destination":destination_id}
+example:  "task_info":[{"environment":environment_file_name,"target":object_id,"destination":destination_id}]
 
 launch: python3 prefab_parser.py 
 
