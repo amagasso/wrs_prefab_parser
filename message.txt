@@ -1,0 +1,4 @@
+{
+ "task_info":[{"environment":"Default_Environment","target":"petbottle_500ml_empty_01","destination":"trashbox_01"},
+		{"environment":"Example_Environment_01","target":"pink_mugcup_01","destination":"cabinet_A_lower_03"}]
+}
